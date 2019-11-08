@@ -1,6 +1,8 @@
 # Wavehpp
 Simple wrapper for PlaySound() in the winodws.h library
+
 This is my first time trying to create something like this outside of class
+
 Use with care :)
 
 ***
