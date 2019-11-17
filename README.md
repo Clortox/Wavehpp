@@ -63,4 +63,4 @@ Use with care :)
   - bool ; stores weather or not the file is ready to be played
 
 - wave::buffsize
-  - int ; size of the file buffer
+  - int ; size of the file buffer (buffer has no null terminator or any sort of flag)
